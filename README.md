@@ -24,5 +24,5 @@ CORE JAVA
 <ol>Primitive DataType</ol>
 <li>int</li>
 <li>double / float </li>
-<li>char<li>
+<li>char</li>
 <li>boolean</li>
