@@ -11,6 +11,9 @@ class Hello
         System.out.println("Hello World");  //**println is used when we print the value to the next line */
         System.out.print(1+2);
 
+        float marks = 9.2;
+        System.out.println(marks);
+
     }
 
 }
