@@ -22,7 +22,17 @@ CORE JAVA
 </ul>
 
 <ol>Primitive DataType</ol>
-<li>int</li>
-<li>double / float </li>
-<li>char</li>
-<li>boolean</li>
+<li>int - Range - 4 bytes</li>
+<li>long - Range - 8 bytes </li>
+<li>short - Range - 2 bytes </li>
+<li>byte - Range - (-128) to 127  </li>
+
+<li>float - Range - 4 bytes</li>
+<li>double -Range - 8 bytes (Default)**</li>
+
+<li>char - Range - 2 bytes</li>
+<p>char c = 'k';</p>
+<p> for character we use ' ' not " " , but for string we use " " </p>
+
+<li>boolean </li>
+<p> boolean car = true; </p>
