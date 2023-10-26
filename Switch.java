@@ -29,6 +29,7 @@ public class Switch {
         // System.out.println("Enter a valid number");
         // }
 
+        // ? Java17 Updated Version
         // todo : Switch ** updated version 17
         String day = "Sunday";
 
