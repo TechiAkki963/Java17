@@ -14,7 +14,7 @@ public class If_else_if {
         // {
         // System.out.println(y);
         // }
-        else if (y > z) // ? */ as we have already compared the comparison of x and y
+        else if (y > z) // ? as we have already compared the comparison of x and y
         {
             System.out.println(y);
         } else // todo: check the condition for z
